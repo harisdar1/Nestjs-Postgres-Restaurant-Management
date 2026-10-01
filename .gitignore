@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Node / NestJS
+node_modules/
+dist/
+.env
+coverage/

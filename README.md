@@ -534,8 +534,8 @@ Standardized across all list endpoints:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/restaurant-api.git
-cd restaurant-api
+git clone https://github.com/harisdar1/Nestjs-Postgres-Restaurant-Management.git
+cd Nestjs-Postgres-Restaurant-Management
 
 # Install dependencies
 npm install
